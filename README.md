@@ -4,4 +4,5 @@ A big Thanks to Ten04031977 (https://github.com/Ten04031977) for its AM2320 libr
 
 ![](https://github.com/ScoobieSnax/Arduino-Thermometer-128x32/blob/master/IMG/IMG_0958.jpg)
 ![](https://github.com/ScoobieSnax/Arduino-Thermometer-128x32/blob/master/IMG/IMG_0959.jpg)
+***
 ![](https://github.com/ScoobieSnax/Arduino-Thermometer-128x32/blob/master/IMG/Diagram.jpg)
